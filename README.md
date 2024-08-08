@@ -11,7 +11,7 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Bar Chart Plotter](#[bar-chart-plotter](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_bar_chart_plotter.py))
+  - [Bar Chart Plotter](#https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_bar_chart_plotter.py)
   - [Line Chart Plotter](#line-chart-plotter.py)
   - [Combine Figures](#combine-figures.py)
   - [statistical_analysis](#statistical_analysis.py)
