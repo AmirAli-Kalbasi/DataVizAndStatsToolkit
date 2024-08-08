@@ -38,3 +38,15 @@ Flexible Layout: Arrange figures in customizable rows and columns.
 Adjustable Sizes: Specify sizes for each figure to ensure optimal presentation.
 Professional Titles: Add titles to each figure with customizable fonts and styles.
 High-Quality Output: Generate high-resolution combined figures suitable for publication.
+
+
+## statistical_analysis
+Description:
+The statistical_analysis module provides a function to perform various statistical analyses on datasets, including ANOVA, Tukey's HSD test, and paired t-tests. The function returns results in a structured format, making it ideal for extracting meaningful statistical inferences from your data.
+
+Key Features:
+ANOVA: Perform one-way ANOVA to analyze differences between group means.
+Tukey's HSD Test: Conduct post-hoc comparisons to identify significant differences.
+Paired T-Test: Compare means from two related groups.
+Significance Annotations: Map p-values to significance levels for easy interpretation.
+Structured Results: Output results in a format suitable for further analysis or visualization.
