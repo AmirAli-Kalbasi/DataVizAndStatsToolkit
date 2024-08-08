@@ -48,7 +48,7 @@ Error Bars: Include error bars with adjustable orientation and appearance.
 Symbol Annotations: Add symbols above data points for additional data representation.
 Professional Presentation: Generates plots suitable for experienced and academic use.
 
-[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_line_plotter.py
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_line_plotter.py)
 
 ## combine_figures
 Description:
