@@ -77,16 +77,10 @@ Structured Results: Output results in a format suitable for further analysis or 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/statistical_analysis.py)
 
 ## Example
-Here is an example of the output generated:
+Here are some examples of the output generated:
 ![image](https://github.com/user-attachments/assets/6d2444fb-38bf-4f8d-bd48-bc297967c743)
 
+![image](https://github.com/user-attachments/assets/87dba484-3068-473b-b3bb-a5c47b07c30c)
 
 
 
-
-
-
-
-
-
-Here is an example of the output generated
