@@ -23,7 +23,7 @@ To use these scripts, you'll need to have Python installed along with the requir
 
 ```sh
 pip install matplotlib pandas numpy statsmodels scipy pillow
-
+```
 
 ## advanced_bar_chart_plotter:
 Description:
