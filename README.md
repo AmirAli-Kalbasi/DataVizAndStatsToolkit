@@ -48,6 +48,8 @@ Error Bars: Include error bars with adjustable orientation and appearance.
 Symbol Annotations: Add symbols above data points for additional data representation.
 Professional Presentation: Generates plots suitable for experienced and academic use.
 
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_line_plotter.py
+
 ## combine_figures
 Description:
 The combine_figures module provides a function to combine multiple matplotlib figures into a single cohesive layout. This function allows users to control the arrangement and appearance of the combined figures, making it ideal for creating comprehensive visual representations for research, presentations, and publications.
@@ -58,6 +60,7 @@ Adjustable Sizes: Specify sizes for each figure to ensure optimal presentation.
 Professional Titles: Add titles to each figure with customizable fonts and styles.
 High-Quality Output: Generate high-resolution combined figures suitable for publication.
 
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/combine_figures.py)
 
 ## statistical_analysis
 Description:
@@ -69,3 +72,6 @@ Tukey's HSD Test: Conduct post-hoc comparisons to identify significant differenc
 Paired T-Test: Compare means from two related groups.
 Significance Annotations: Map p-values to significance levels for easy interpretation.
 Structured Results: Output results in a format suitable for further analysis or visualization.
+
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/statistical_analysis.py)
+
