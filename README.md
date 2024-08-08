@@ -14,7 +14,7 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
   - [Bar Chart Plotter](#advanced_bar_chart_plotter)
   - [Line Chart Plotter](#advanced_line_plotter)
   - [Combine Figures](#combine_figures)
-  - [statistical_analysis](#statistical_analysis)
+  - [Statistical Analysis](#statistical_analysis)
 - [License](#license)
 
 ## Installation
