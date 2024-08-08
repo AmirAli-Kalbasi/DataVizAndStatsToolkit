@@ -80,7 +80,7 @@ Structured Results: Output results in a format suitable for further analysis or 
 Here are some examples of the output generated:
 ![image](https://github.com/user-attachments/assets/6d2444fb-38bf-4f8d-bd48-bc297967c743)
 
-![image](https://github.com/user-attachments/assets/87dba484-3068-473b-b3bb-a5c47b07c30c)
+![image](https://github.com/user-attachments/assets/9920afdb-f2a3-4d11-b9ce-06411657f2f6)
 
 
 
