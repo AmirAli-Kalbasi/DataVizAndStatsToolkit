@@ -17,3 +17,14 @@ Data Points Integration: Add data points with a customizable appearance.
 Symbol Annotations: Include symbols above bars for additional data representation.
 Flexible Layout: Supports group and category labels with customizable fonts.
 Professional Presentation: Generates plots suitable for experienced and academic use.
+
+advanced_line_plotter
+Description:
+The advanced_line_plotter module provides a function to create highly customizable and professional-quality line plots. This function allows users to control various aspects of the line plot, including line styles, colors, data points, error bars, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
+
+Key Features:
+Customizable Line Settings: Adjust line colors, styles, and widths.
+Data Points Integration: Add data points with customizable appearance and jittering.
+Error Bars: Include error bars with adjustable orientation and appearance.
+Symbol Annotations: Add symbols above data points for additional data representation.
+Professional Presentation: Generates plots suitable for experienced and academic use.
