@@ -35,6 +35,8 @@ Symbol Annotations: Include symbols above bars for additional data representatio
 Flexible Layout: Supports group and category labels with customizable fonts.
 Professional Presentation: Generates plots suitable for experienced and academic use.
 
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_bar_chart_plotter.py)
+
 ## advanced_line_plotter
 Description:
 The advanced_line_plotter module provides a function to create highly customizable and professional-quality line plots. This function allows users to control various aspects of the line plot, including line styles, colors, data points, error bars, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
