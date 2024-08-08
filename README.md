@@ -4,6 +4,7 @@ DataVizAndStatsToolkit is a universal collection of scripts for advanced data vi
 - Functions to create highly customizable bar and line plots suitable for professional and publication-quality presentations.
 - Tools to combine multiple figures into a cohesive layout, ideal for creating comprehensive visual representations.
 - Statistical analysis scripts for performing ANOVA, Tukey's HSD, paired t-tests, and more, with easy-to-interpret results.
+- A utility function to transform and prepare datasets into the format required by advanced bar chart and line plotter functions, ensuring data is structured correctly before visualization.
 
 Whether you're a researcher, data scientist, or analyst, this toolkit will help you generate insightful visualizations and perform rigorous statistical analyses with ease.
 
@@ -15,6 +16,7 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
   - [Line Chart Plotter](#advanced_line_plotter)
   - [Combine Figures](#combine_figures)
   - [Statistical Analysis](#statistical_analysis)
+  - [Data Transformer](#transform_data)
   - [Example](#Example)
 
 ## Installation
@@ -75,6 +77,18 @@ Significance Annotations: Map p-values to significance levels for easy interpret
 Structured Results: Output results in a format suitable for further analysis or visualization.
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/statistical_analysis.py)
+
+##transform_data:
+
+Description:
+The data_transformer module provides a function to transform a dataset into the format required by the advanced bar chart and line plotter functions. This utility function helps users prepare their data for visualization by grouping and formatting it according to specific columns. It's particularly useful for ensuring that data is structured correctly before plotting.
+
+Key Features:
+Data Grouping: Groups data by specified columns (e.g., group and category) and aggregates values into lists.
+Flexible Input: Accepts data in a dictionary format and converts it into a pandas DataFrame.
+Ease of Use: Simplifies the process of preparing data for complex visualizations.
+
+[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/transform_data.py)
 
 ## Example
 Here are some examples of the output generated:
