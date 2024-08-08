@@ -78,7 +78,7 @@ Structured Results: Output results in a format suitable for further analysis or 
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/statistical_analysis.py)
 
-##transform_data:
+## transform_data:
 
 Description:
 The data_transformer module provides a function to transform a dataset into the format required by the advanced bar chart and line plotter functions. This utility function helps users prepare their data for visualization by grouping and formatting it according to specific columns. It's particularly useful for ensuring that data is structured correctly before plotting.
