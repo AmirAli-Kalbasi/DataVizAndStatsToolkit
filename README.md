@@ -7,6 +7,24 @@ DataVizAndStatsToolkit is a universal collection of scripts for advanced data vi
 
 Whether you're a researcher, data scientist, or analyst, this toolkit will help you generate insightful visualizations and perform rigorous statistical analyses with ease.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Bar Chart Plotter](#bar-chart-plotter)
+  - [Line Chart Plotter](#line-chart-plotter)
+  - [Combine Figures](#combine-figures)
+  - [statistical_analysis](#statistical_analysis)
+- [License](#license)
+
+## Installation
+
+To use these scripts, you'll need to have Python installed along with the required libraries. You can install the necessary libraries using:
+
+```sh
+pip install matplotlib pandas numpy statsmodels scipy pillow
+
+
 ## advanced_bar_chart_plotter:
 Description:
 The advanced_bar_chart_plotter module provides a function to create highly customizable and professional-quality bar charts. This function allows users to control various aspects of the bar chart, including bar widths, distances between bars and groups, colors, error bars, data points, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
