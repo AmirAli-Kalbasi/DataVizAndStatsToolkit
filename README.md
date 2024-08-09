@@ -12,7 +12,7 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Bar Chart Plotter](#advanced_bar_chart_plotter)
+  - [Bar Chart Plotter](#Advanced_Bar_Chart_Plotter)
   - [Line Chart Plotter](#advanced_line_plotter)
   - [Combine Figures](#combine_figures)
   - [Statistical Analysis](#statistical_analysis)
@@ -28,7 +28,7 @@ To use these scripts, you'll need to have Python installed along with the requir
 pip install matplotlib pandas numpy statsmodels scipy pillow
 ```
 
-## advanced_bar_chart_plotter:
+## Advanced Bar Chart Plotter:
 Description:
 The advanced_bar_chart_plotter module provides a function to create highly customizable and professional-quality bar charts. This function allows users to control various aspects of the bar chart, including bar widths, distances between bars and groups, colors, error bars, data points, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
 
