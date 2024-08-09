@@ -81,7 +81,7 @@ Structured Results: Output results in a format suitable for further analysis or 
 
 ## DataLoader
 Description:
-The DataLoader module, part of the [AnalyticaPro](https://github.com/AmirAli-Kalbasi/AnalyticaPro/edit/main/README.md) toolkit, is designed to simplify the process of loading and preprocessing datasets. It supports various file formats such as CSV, Excel, and JSON, and allows for straightforward data cleaning and transformation, making it an excellent addition to the DataVizAndStatsToolkit.
+The DataLoader module, part of the [AnalyticaPro](https://github.com/AmirAli-Kalbasi/AnalyticaPro/tree/main) toolkit, is designed to simplify the process of loading and preprocessing datasets. It supports various file formats such as CSV, Excel, and JSON, and allows for straightforward data cleaning and transformation, making it an excellent addition to the DataVizAndStatsToolkit.
 
 Key Features:
 Multiple File Formats: Load data from CSV, Excel, JSON, and more.
@@ -100,7 +100,7 @@ Data Grouping: Groups data by specified columns (e.g., group and category) and a
 Flexible Input: Accepts data in a dictionary or pandas format and converts it into a pandas DataFrame.
 Ease of Use: Simplifies the process of preparing data for complex visualizations.
 
-[View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/transform_data.py)
+[View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/blob/main/data_loader.py)
 
 ## Example
 Here are some examples of the output generated:
