@@ -16,6 +16,7 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
   - [Line Chart Plotter](#advanced_line_plotter)
   - [Combine Figures](#combine_figures)
   - [Statistical Analysis](#statistical_analysis)
+  - [Data Loader](#DataLoader)
   - [Data Transformer](#transform_data)
   - [Example](#Example)
 
@@ -78,8 +79,19 @@ Structured Results: Output results in a format suitable for further analysis or 
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/statistical_analysis.py)
 
-## transform_data:
+## DataLoader
+Description:
+The DataLoader module, part of the [AnalyticaPro](https://github.com/AmirAli-Kalbasi/AnalyticaPro/edit/main/README.md) toolkit, is designed to simplify the process of loading and preprocessing datasets. It supports various file formats such as CSV, Excel, and JSON, and allows for straightforward data cleaning and transformation, making it an excellent addition to the DataVizAndStatsToolkit.
 
+Key Features:
+Multiple File Formats: Load data from CSV, Excel, JSON, and more.
+Data Cleaning: Perform basic data cleaning operations like handling missing values.
+Easy Integration: Seamlessly integrates with the DataVizAndStatsToolkit for smooth data flow from loading to visualization.
+Customizable Preprocessing: Apply preprocessing steps like filtering and normalization as needed.
+
+[View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/edit/main/DataLoader.py)
+
+## transform_data:
 Description:
 The data_transformer module provides a function to transform a dataset into the format required by the advanced bar chart and line plotter functions. This utility function helps users prepare their data for visualization by grouping and formatting it according to specific columns. It's particularly useful for ensuring that data is structured correctly before plotting.
 
