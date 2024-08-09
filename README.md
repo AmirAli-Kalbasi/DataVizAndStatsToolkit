@@ -89,7 +89,7 @@ Data Cleaning: Perform basic data cleaning operations like handling missing valu
 Easy Integration: Seamlessly integrates with the DataVizAndStatsToolkit for smooth data flow from loading to visualization.
 Customizable Preprocessing: Apply preprocessing steps like filtering and normalization as needed.
 
-[View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/blob/main/DataLoader.py)
+[View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/blob/main/data_loader.py)
 
 ## transform_data:
 Description:
