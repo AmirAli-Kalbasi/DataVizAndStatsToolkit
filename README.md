@@ -85,7 +85,7 @@ The data_transformer module provides a function to transform a dataset into the 
 
 Key Features:
 Data Grouping: Groups data by specified columns (e.g., group and category) and aggregates values into lists.
-Flexible Input: Accepts data in a dictionary format and converts it into a pandas DataFrame.
+Flexible Input: Accepts data in a dictionary or pandas format and converts it into a pandas DataFrame.
 Ease of Use: Simplifies the process of preparing data for complex visualizations.
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/transform_data.py)
