@@ -12,12 +12,12 @@ Whether you're a researcher, data scientist, or analyst, this toolkit will help 
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Bar Chart Plotter](#Advanced_Bar_Chart_Plotter)
-  - [Line Chart Plotter](#advanced_line_plotter)
-  - [Combine Figures](#combine_figures)
-  - [Statistical Analysis](#statistical_analysis)
+  - [Bar Chart Plotter](#AdvancedBarChartPlotter)
+  - [Line Chart Plotter](#AdvancedLinePlotter)
+  - [Combine Figures](#CombineFigures)
+  - [Statistical Analysis](#StatisticalAnalysis)
   - [Data Loader](#DataLoader)
-  - [Data Transformer](#transform_data)
+  - [Data Transformer](#TransformData)
   - [Example](#Example)
 
 ## Installation
@@ -28,7 +28,7 @@ To use these scripts, you'll need to have Python installed along with the requir
 pip install matplotlib pandas numpy statsmodels scipy pillow
 ```
 
-## Advanced Bar Chart Plotter:
+## AdvancedBarChartPlotter:
 Description:
 The advanced_bar_chart_plotter module provides a function to create highly customizable and professional-quality bar charts. This function allows users to control various aspects of the bar chart, including bar widths, distances between bars and groups, colors, error bars, data points, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
 
@@ -41,7 +41,7 @@ Professional Presentation: Generates plots suitable for experienced and academic
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_bar_chart_plotter.py)
 
-## advanced_line_plotter
+## AdvancedLinePlotter
 Description:
 The advanced_line_plotter module provides a function to create highly customizable and professional-quality line plots. This function allows users to control various aspects of the line plot, including line styles, colors, data points, error bars, and symbols. It is ideal for creating complex research, presentations, and publications visualizations.
 
@@ -54,7 +54,7 @@ Professional Presentation: Generates plots suitable for experienced and academic
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/advanced_line_plotter.py)
 
-## combine_figures
+## CombineFigures
 Description:
 The combine_figures module provides a function to combine multiple matplotlib figures into a single cohesive layout. This function allows users to control the arrangement and appearance of the combined figures, making it ideal for creating comprehensive visual representations for research, presentations, and publications.
 
@@ -66,7 +66,7 @@ High-Quality Output: Generate high-resolution combined figures suitable for publ
 
 [View the code](https://github.com/AmirAli-Kalbasi/DataVizAndStatsToolkit/blob/main/combine_figures.py)
 
-## statistical_analysis
+## StatisticalAnalysis
 Description:
 The statistical_analysis module provides a function to perform various statistical analyses on datasets, including ANOVA, Tukey's HSD test, and paired t-tests. The function returns results in a structured format, making it ideal for extracting meaningful statistical inferences from your data.
 
@@ -91,7 +91,7 @@ Customizable Preprocessing: Apply preprocessing steps like filtering and normali
 
 [View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/blob/main/data_loader.py)
 
-## transform_data:
+## TransformData:
 Description:
 The data_transformer module provides a function to transform a dataset into the format required by the advanced bar chart and line plotter functions. This utility function helps users prepare their data for visualization by grouping and formatting it according to specific columns. It's particularly useful for ensuring that data is structured correctly before plotting.
 
