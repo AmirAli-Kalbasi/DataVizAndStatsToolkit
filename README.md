@@ -85,9 +85,6 @@ The DataLoader module, part of the [AnalyticaPro](https://github.com/AmirAli-Kal
 
 Key Features:
 Multiple File Formats: Load data from CSV, Excel, JSON, and more.
-Data Cleaning: Perform basic data cleaning operations like handling missing values.
-Easy Integration: Seamlessly integrates with the DataVizAndStatsToolkit for smooth data flow from loading to visualization.
-Customizable Preprocessing: Apply preprocessing steps like filtering and normalization as needed.
 
 [View the code](https://github.com/AmirAli-Kalbasi/AnalyticaPro/blob/main/data_loader.py)
 
